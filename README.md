@@ -1042,6 +1042,12 @@
 
   界面美观的电子书阅读软件，提供无缝的跨平台访问（支持 macOS、Windows、Linux、Android、iOS 以及网页端）
 
+- [Easemic](https://github.com/dirtyfancy/easemic)
+  [[网站](https://easemic.com/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/dirtyfancy/easemic?style=flat"></sub>
+
+  基于 Kotlin 与 Jetpack Compose 构建的原生 Android 漫画阅读器，支持本地 CBZ/ZIP 压缩包、自托管 OPDS 目录（Komga、Kavita）以及端到端加密云存储流式阅读与备份（Cloudflare R2、Bunny Storage、Backblaze B2、WebDAV、Google Drive、OneDrive）。
+
 - ~~[Pdf Viewer Plus](https://github.com/gokulswam/PdfViewer)
   [[F-Droid](https://f-droid.org/packages/com.gsnathan.pdfviewer/)]~~
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/gokulswam/PdfViewer?style=flat"></sub>
